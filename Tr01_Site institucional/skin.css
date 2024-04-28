@@ -1,0 +1,11 @@
+*{
+    margin: 150px;
+    padding: 150px;
+    border: 150px;
+    font-family: 'Helvetica', sans-serif;
+}
+
+.header{
+    background-color: #ffffff;
+    height: 100vh;
+}
