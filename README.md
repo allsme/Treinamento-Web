@@ -6,3 +6,6 @@ O primeiro desafio foi a criação de um site responsivo, utilizando HTML/CSS e 
 
 ## Desafio 02: Calculadora
 O segundo desafio foi criar uma calculadora usando HTML/CSS e JavaScript para a lógica. A funcionalidade de JS está na página de .html.
+
+## Desafio 03: Site Institucional em React
+O terceiro desafio foi o desenvolvimento de sites institucionais usando React.
